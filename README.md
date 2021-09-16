@@ -1,4 +1,4 @@
-# Insight UI
+# Insight UI [DEPRECATED]
 
 **Important Notice**: the litecore stack is now deprecated.
 Please switch to alternative packages. `insight-lite-ui` should be considered unsafe for production use.
